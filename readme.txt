@@ -4,7 +4,6 @@ Programming Assignment 2: CClient using customised protocol on top of UDP protoc
 
 Note: I ran this program in the Design Center: Linux Lab
 Name: KAPIL VARMA
-ID: 1483983
 */
 
 
