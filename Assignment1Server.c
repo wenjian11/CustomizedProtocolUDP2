@@ -3,7 +3,6 @@ Computer Networks
 Programming Assignment 1 -> Client using customized protocol on top of UDP
 protocol for sending information to the server.
 Name: KAPIL VARMA
-ID: 1483983
 */
 
 #include <sys/socket.h>
