@@ -1,4 +1,4 @@
-//Kapil Varma W1483983 Programming Assignment 1 -> Client using customized protocol on top of UDP protocol for sending information to the server.
+//Kapil Varma  Programming Assignment 1 -> Client using customized protocol on top of UDP protocol for sending information to the server.
 
 #include <sys/socket.h>
 #include <netinet/in.h>
